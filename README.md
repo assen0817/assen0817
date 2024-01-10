@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 </p>
 
  
-### Learning Now an Next
+### Learning Now and Next
 
 [![Learning Now an Next](https://skillicons.dev/icons?i=tauri,react,ts,blender,unity,unreal)](https://skillicons.dev)
 
