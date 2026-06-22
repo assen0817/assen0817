@@ -13,7 +13,7 @@
 </p>
 
 
-<table align="center">
+<table align="center" width="100%">
   <tr>
     <th>🏆 Trophy</th>
     <th>📊 Status</th>
