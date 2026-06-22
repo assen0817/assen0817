@@ -11,9 +11,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=assen0817&theme=dark&show_icons=true&locale=en&layout=compact&count_private=true" alt="assen0817" />
 </p>
 
-<!-- ↓ Vercelに自分でデプロイ後、ドメインを自分のものに置き換えてください -->
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://YOUR-PROJECT.vercel.app/?username=assen0817&row=2&column=3&theme=onedark" alt="assen0817" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-fork-two.vercel.app/?username=assen0817&row=2&column=3&theme=onedark" alt="assen0817" /></a>
 </p>
 
 ### Connect with me:
