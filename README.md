@@ -13,13 +13,11 @@
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=assen0817&theme=dark&show_icons=true&count_private=true" alt="assen0817" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=assen0817&theme=dark&show_icons=true&locale=en&layout=compact&count_private=true" alt="assen0817" />
-</p>
-
-<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=assen0817&theme=onedark&show_icons=true&count_private=true" alt="assen0817" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=assen0817&theme=onedark&show_icons=true&locale=en&layout=compact&count_private=true" alt="assen0817" />
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-fork-two.vercel.app/?username=assen0817&row=2&column=3&theme=onedark" alt="assen0817" /></a>
 </p>
+
 
 ### Connect with me:
 
@@ -34,7 +32,3 @@
 ### Languages and Tools
 
 [![skills](https://skillicons.dev/icons?i=py,django,flask,pytorch,html,css,js,aws,mysql,linux,firebase,docker)](https://skillicons.dev)
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=assen0817&theme=onedark&show_icons=true&count_private=true" alt="assen0817" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=assen0817&theme=onedark&show_icons=true&locale=en&layout=compact&count_private=true" alt="assen0817" />
-</p>
