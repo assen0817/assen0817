@@ -12,13 +12,22 @@
   <img src="https://komarev.com/ghpvc/?username=assen0817&label=Profile%20views&color=0e75b6&style=flat" alt="assen0817" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="31%" src="https://github-profile-trophy-fork-two.vercel.app/?username=assen0817&row=3&column=2&theme=onedark&no-frame=true" alt="trophy" /></a>
-  <p align="center">
-    <img width="31%" src="https://github-readme-stats.vercel.app/api/top-langs?username=assen0817&theme=onedark&show_icons=true&locale=en&layout=compact&count_private=true&hide_border=true" alt="top langs" />
-    <img width="31%" src="https://github-readme-stats.vercel.app/api?username=assen0817&theme=onedark&show_icons=true&count_private=true&hide_border=true" alt="stats" />
-  </p>
-</p>
+
+<table align="center">
+  <tr>
+    <th>📊 Status</th>
+    <th>🏆 Trophy</th>
+  </tr>
+  <tr>
+    <td valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=assen0817&theme=onedark&show_icons=true&count_private=true&hide_border=true" alt="stats" /><br/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=assen0817&theme=onedark&show_icons=true&locale=en&layout=compact&count_private=true&hide_border=true" alt="top langs" />
+    </td>
+    <td valign="top">
+      <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-fork-two.vercel.app/?username=assen0817&row=3&column=2&theme=onedark&no-frame=true" alt="trophy" /></a>
+    </td>
+  </tr>
+</table>
 
 ### Connect with me:
 
