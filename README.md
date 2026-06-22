@@ -1,4 +1,10 @@
 ### Hi there 👋 I'm Assen
+**Engineer who loves tech — dreaming of a future where you can dive into game worlds with your mind.**
+
+- 🔭 Engineer with 8 years of Python and 4 years of AWS
+- 🌱 Currently learning React, Unreal Engine, and Blender
+- 🎮 My dream: a BCI (EEG) game you can play while lying down — like SAO
+- 🌌 An endless world where you craft your own one-of-a-kind gear — a game even its developers can't predict
 
 ## My status
 
@@ -28,3 +34,7 @@
 ### Languages and Tools
 
 [![skills](https://skillicons.dev/icons?i=py,django,flask,pytorch,html,css,js,aws,mysql,linux,firebase,docker)](https://skillicons.dev)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=assen0817&theme=onedark&show_icons=true&count_private=true" alt="assen0817" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=assen0817&theme=onedark&show_icons=true&locale=en&layout=compact&count_private=true" alt="assen0817" />
+</p>
