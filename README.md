@@ -14,7 +14,7 @@
 
 <table align="center">
   <tr>
-    <td valign="top" width="40%">
+    <td valign="top" width="20%">
       <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="100%" src="https://github-profile-trophy-fork-two.vercel.app/?username=assen0817&row=2&column=3&theme=onedark&no-frame=true" alt="trophy" /></a>
     </td>
     <td valign="top" width="20%">
