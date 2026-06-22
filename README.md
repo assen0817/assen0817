@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-fork-two.vercel.app/?username=assen0817&row=2&column=3&theme=onedark&no-frame=true" alt="trophy" /></a>
+      <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-fork-two.vercel.app/?username=assen0817&row=3&column=2&theme=onedark&no-frame=true" alt="trophy" /></a>
     </td>
     <td valign="top">
       <img src="https://github-readme-stats.vercel.app/api?username=assen0817&theme=onedark&show_icons=true&count_private=true&hide_border=true" alt="stats" /><br/>
